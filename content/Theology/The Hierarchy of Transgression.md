@@ -1,10 +1,12 @@
 ---
 title: The Hierarchy of Transgression
-published: true
+published: false
 tags:
-  - bible
-  - religion
+  - blog-page
   - theology
+created: 2026-05-03T01:30:00
+modified:
+  - 2026-05-03T09:21
 ---
 # The Hierarchy of Transgression: Degrees of Sin in Scripture
 
@@ -17,7 +19,7 @@ For the community that strays from God without intent, a path to restoration thr
 > [!quote] Numbers 15:26 (NIV)
 > "The whole Israelite community and the foreigners residing among them will be forgiven, because all the people were involved in the unintentional wrong."
 
-However, intentional sin carries a much weightier judgment. Because the individual has "despised the Lord’s word," the consequence is total separation from the community [^1]. This distinction proves that different sins carry different punishments and are valued differently.
+However, intentional sin carries a much weightier judgment. Because the individual has "despised the Lord’s word," the consequence is total separation from the community[^1]. This distinction proves that different sins carry different punishments and are valued differently.
 
 ## New Testament Continuance
 This theme of "levels of sin" persists into the New Testament. We see it clearly in the Johannine epistles and the teachings of Christ:
