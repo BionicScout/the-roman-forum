@@ -3,7 +3,7 @@ title:
 aliases:
 publish: false
 tags:
-  - blog-page
+  - blog-reference
   - people
 created:
 modified:
