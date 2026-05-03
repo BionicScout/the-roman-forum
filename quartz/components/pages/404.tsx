@@ -15,4 +15,4 @@ export default (() => {
     content: NotFound,
     title: "Page Not Found",
   }
-}) satisfies QuartzComponentConstructor
+}) satisfies QuartzComponentConstructor 
