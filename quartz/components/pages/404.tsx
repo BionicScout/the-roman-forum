@@ -5,7 +5,7 @@ const NotFound: QuartzComponent = ({ i18n }: QuartzComponentProps) => {
   return (
     <div class="not-found">
       <p>This page doesn't exist. Please return back to the main page.</p>
-      <a href="/" class="internal">Go back to home</a>
+      <a href="https://bionicscout.github.io/the-roman-forum" class="internal">Go back to home</a>
     </div>
   )
 }
