@@ -5,9 +5,9 @@ published: false
 tags:
   - blog-page
   - people
-created:
+created: 2026-05-03T10:41:00
 modified:
-  - 2026-05-03T10:41
+  - 2026-05-03T10:42
 born: 384 BC
 died: 322 BC
 ---
