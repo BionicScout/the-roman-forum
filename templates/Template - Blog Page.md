@@ -1,8 +1,8 @@
 ---
 title:
-publish: false
 tags:
   - blog-page
+  - draft
 created:
 modified:
 ---

@@ -1,12 +1,12 @@
 ---
 title: Sin always separates you from God but by different amounts
-draft: true
 tags:
   - blog-page
   - theology
+  - draft
 created: 2026-05-03T09:00:00
 modified:
-  - 2026-05-03T11:38
+  - 2026-05-03T11:48
 ---
 ## Description
 There are two competing ideas of on sin. The first is [[All sin separates you from God's grace]] which means that no matter what the sin is, you are separated from God. While this idea is good, because we have to get our sin forgiven, it also can lead to the thinking of "well murder is just as bad lying so murder is fine because I can be forgiven". That thinking is horrible cause it lead to bad things. 

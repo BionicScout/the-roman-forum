@@ -1,13 +1,12 @@
 ---
 title: Aristotle
 aliases:
-draft: false
 tags:
   - blog-reference
   - people
 created: 2026-05-03T10:41:00
 modified:
-  - 2026-05-03T11:38
+  - 2026-05-03T11:49
 born: 384 BC
 died: 322 BC
 ---

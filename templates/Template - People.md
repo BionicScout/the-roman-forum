@@ -1,10 +1,10 @@
 ---
 title:
 aliases:
-publish: false
 tags:
   - blog-reference
   - people
+  - draft
 created:
 modified:
 born:
