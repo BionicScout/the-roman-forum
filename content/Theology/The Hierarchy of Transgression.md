@@ -5,7 +5,7 @@ tags:
   - theology
 created: 2026-05-03T01:30:00
 modified:
-  - 2026-05-03T12:22
+  - 2026-05-03T12:24
 ---
 [!abstract] Overview 
 A common misconception in modern theological discussion is that all sins are viewed as functionally identical in their consequences. However, a close reading of both the Old and New Testaments reveals a clear distinction: **some sins are more severe than others.**
