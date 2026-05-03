@@ -35,7 +35,7 @@ Press `Ctrl + K` (or `Cmd + K` on Mac) to open the search bar. It’s lightning-
 
 ### 🗂️ Backlinks & Previews
 
-At the bottom of every page, you will see a **Backlinks** section. This shows you every other note that mentions the one you are currently reading. Also, try **hovering over links** to see a quick preview of the content without leaving your current page.
+At the bottom of every page, you will see a **Backlinks** section. This shows you every other note that mentions the one you are currently reading, allowing for organic discovery. You can also **hover over any link** to see a quick preview of the content without leaving your current page.
 
 ---
 
