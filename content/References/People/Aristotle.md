@@ -3,7 +3,7 @@ title: Aristotle
 aliases:
 publish: true
 tags:
-  - blog-page
+  - blog-reference
   - people
 created: 2026-05-03T10:41:00
 modified:
