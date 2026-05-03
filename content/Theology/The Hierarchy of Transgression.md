@@ -1,12 +1,12 @@
 ---
 title: The Hierarchy of Transgression
-publish: false
+draft: true
 tags:
   - blog-page
   - theology
 created: 2026-05-03T01:30:00
 modified:
-  - 2026-05-03T10:45
+  - 2026-05-03T11:38
 ---
 # The Hierarchy of Transgression: Degrees of Sin in Scripture
 
