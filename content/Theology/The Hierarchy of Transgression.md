@@ -26,6 +26,7 @@ This theme of "levels of sin" persists into the New Testament. We see it clearly
 *   **Comparative Judgment:** Jesus suggests a sliding scale of accountability, stating it would be "more bearable for Sodom" on judgment day than for cities like Chorazin and Bethsaida that witnessed His miracles but did not repent (Matthew 11:24)[^2].
 
 Ultimately, the New Testament reinforces that while grace is available, the severity of a sin is often tied to the **knowledge** and **intent** of the sinner.
+
 ---
 ## Relevant Quotes
 > [!important] On Knowledge and Accountability
