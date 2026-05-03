@@ -1,6 +1,6 @@
 ---
 title: Some sins are more severe than others
-draft: true
+published: true
 tags:
   - bible
 ---
