@@ -6,7 +6,7 @@ tags:
   - people
 created: 2026-05-03T10:41:00
 modified:
-  - 2026-05-03T11:49
+  - 2026-05-03T12:01
 born: 384 BC
 died: 322 BC
 ---
@@ -31,13 +31,12 @@ Aristotle was an ancient Greek philosopher and polymath who stands as one of the
 > [!quote] Theory/Legacy 
 > Aristotle’s legacy is the founder of organized thought. His insistence on categorizing the world allows us to see the connections between the "internal forum" of the mind and the external systems of the digital age.
 
-## Forum Mentions
--     
-
 ---
+## Related
+**Influences:** [[Plato]], [[Alexander the Great]], [[Marcus Aurelius]] 
 
-**Related Influences:** [[Plato]], [[Alexander the Great]], [[Marcus Aurelius]] 
 **Related Topics:** #philosophy #history #logic 
+
 **Forum Mentions:**
 -     
 --- 

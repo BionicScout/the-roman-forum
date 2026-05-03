@@ -28,7 +28,7 @@ died:
 > **Theory/Legacy:** Why we still discuss them in the digital age.
 
 ---
-## Related
+## Related 
 **Influences:** 
 **Related Topics:** #history #philosophy 
 **Forum Mentions:** 
