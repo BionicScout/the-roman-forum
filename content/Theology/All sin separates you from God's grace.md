@@ -1,12 +1,12 @@
 ---
 title: All sin separates you from God's grace
-published: true
+publish: false
 tags:
   - blog-page
   - theology
 created: 2026-05-03T09:00:00
 modified:
-  - 2026-05-03T09:27
+  - 2026-05-03T10:45
 ---
 ## Description
 Many ask "What is the consequence of sin?". As the most basic level, sin is what separate God from man. In Romans, Paul says "all have sinned and fall short of the glory of God" (NIV, [[Romans 3]].23). However, he goes on to say "all are justified freely by his grace through the redemption that came by Christ Jesus" (NIV, Romans 2.24), meaning that all sin can be heal with your relation and belief in Jesus. 

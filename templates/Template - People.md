@@ -1,7 +1,7 @@
 ---
 title:
 aliases:
-published: false
+publish: false
 tags:
   - blog-page
   - people

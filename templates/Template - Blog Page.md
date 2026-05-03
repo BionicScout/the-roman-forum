@@ -1,6 +1,6 @@
 ---
 title:
-published: false
+publish: false
 tags:
   - blog-page
 created:
