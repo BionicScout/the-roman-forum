@@ -30,8 +30,10 @@ died:
 ---
 ## Related 
 **Influences:** 
-**Related Topics:** #history #philosophy 
-**Forum Mentions:** 
+
+**Related Topics:** 
+
+## Forum Mentions: 
 - 
 ---
 > "Quote." — **Name**

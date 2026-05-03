@@ -6,7 +6,7 @@ tags:
   - people
 created: 2026-05-03T10:41:00
 modified:
-  - 2026-05-03T12:04
+  - 2026-05-03T12:08
 born: 384 BC
 died: 322 BC
 ---
@@ -37,7 +37,7 @@ Aristotle was an ancient Greek philosopher and polymath who stands as one of the
 
 **Related Topics:** #philosophy #history #logic 
 
-## Forum Mentions:
+## Forum Mentions
 -     
 --- 
 
