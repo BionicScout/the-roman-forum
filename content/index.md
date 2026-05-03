@@ -13,11 +13,11 @@ This digital space is built in that same spirit. It is a central hub designed fo
 
 The Forum is divided into several realms of thought. Whether you are interested in the origins of humanity or the future of computation, there is a corner here for you:
 
-- **History & Anthropology:** Explore the fall and collapse of civilizations and peoples from ancient Mesopotamia to modern political conflicts. 
+- **History & Anthropology:** Explore the rise and collapse of civilizations and peoples, from the cradle of ancient Mesopotamia to the complexities of modern political conflicts.
     
-- **Theology & Philosophy:** Dive into what it really means to be human by looking "Big Questions" of divine nature, grounded ethics, and search for meaning.
+- **Theology & Philosophy:** Dive into what it really means to be human by investigating the "Big Questions" of divine nature, grounded ethics, and the eternal search for meaning.
     
-- **Psychology:** An examination of the internal forum—the mechanics of the human mind, behavior, and the subconscious.  
+- **Psychology:** An examination of the _internal forum_—the hidden mechanics of the human mind, behavior, and the subconscious.
 
 ---
 
