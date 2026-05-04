@@ -1,11 +1,13 @@
 ---
-title: " The Hierarchy of Transgression: Degrees of Sin in Scripture"
+title: "The Hierarchy of Transgression: Degrees of Sin in Scripture"
+aliases:
+  - "The Hierarchy of Transgression: Degrees of Sin in Scripture"
 tags:
   - blog-page
   - theology
 created: 2026-05-03T01:30:00
 modified:
-  - 2026-05-03T08:06
+  - 2026-05-03T08:59
 ---
 > [!abstract] Overview 
 > A common misconception in modern theological discussion is that all sins are viewed as functionally identical in their consequences. However, a close reading of both the Old and New Testaments reveals a clear distinction: **some sins are more severe than others.**
@@ -41,7 +43,14 @@ Ultimately, the New Testament reinforces that while grace is available, the seve
 > "Jesus answered, 'You would have no power over me if it were not given to you from above. Therefore the one who handed me over to you is **guilty of a greater sin**.'" 
 > — **John 19:11 (NIV)**
 
+---
+## Related
+**Related Topics:** #theology 
 
+**Influences:** 
+
+## Forum Mentions
+- [[The Synthesis of Sin - Separation and Severity]]
 --- 
 
 [^1]: Numbers 15:22-31

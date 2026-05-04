@@ -1,11 +1,13 @@
 ---
 title: The Consequence of Sin - The Fundamental Separation
+aliases:
+  - The Fundamental Separation
 tags:
   - blog-page
   - theology
 created: 2026-05-03T09:00:00
 modified:
-  - 2026-05-03T08:26
+  - 2026-05-03T08:58
 ---
 > [!abstract] Overview 
 > A central question in theological inquiry is: _"What is the consequence of sin?"_ At its most fundamental level, sin acts as the primary agent of **separation between God and man**. While different transgressions may carry varying earthly and spiritual weights, the core ontological result remains a breach in the relationship with the Divine.
@@ -14,7 +16,7 @@ modified:
 
 The framework for understanding this separation is established in the Pauline epistles. There is no distinction in the _need_ for restoration, as the condition of falling short is universal:
 
-> [!quote] Romans 3:23-24 (NIV) '
+> [!quote] Romans 3:23-24 (NIV)
 > "For all have sinned and fall short of the glory of God, and all are justified freely by his grace through the redemption that came by Christ Jesus."
 
 This highlights a dual reality: while sin creates the void, the relationship is healed not through human effort, but through **belief and redemption in Jesus**.
@@ -34,7 +36,7 @@ To understand the "consequence," one must view the Law as a single, cohesive bon
 **Influences:** 
 
 ## Forum Mentions
-- 
+- [[The Synthesis of Sin - Separation and Severity]]
 
 --- 
 
