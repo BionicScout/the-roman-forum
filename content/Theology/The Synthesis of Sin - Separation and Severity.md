@@ -3,7 +3,6 @@ title: "The Synthesis of Sin: Separation and Severity"
 tags:
   - blog-page
   - theology
-  - draft
 created: 2026-05-03T09:00:00
 modified:
   - 2026-05-03T09:15
