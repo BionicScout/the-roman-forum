@@ -1,5 +1,6 @@
 ---
 title:
+description:
 aliases:
 tags:
   - blog-reference

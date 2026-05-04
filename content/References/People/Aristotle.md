@@ -1,12 +1,13 @@
 ---
 title: Aristotle
+description: Aristotle was an ancient Greek philosopher and polymath who stands as one of the most influential figures in Western history. As a student of Plato and tutor to Alexander the Great, he established the Lyceum and pioneered the formal study of logic, biology, and ethics.
 aliases:
 tags:
   - blog-reference
   - people
 created: 2026-05-03T10:41:00
 modified:
-  - 2026-05-03T08:41
+  - 2026-05-03T11:14
 born: 384 BC
 died: 322 BC
 ---
