@@ -1,11 +1,11 @@
 ---
-title: All sin separates you from God's grace
+title: The Consequence of Sin - The Fundamental Separation
 tags:
   - blog-page
   - theology
 created: 2026-05-03T09:00:00
 modified:
-  - 2026-05-03T08:22
+  - 2026-05-03T08:26
 ---
 > [!abstract] Overview 
 > A central question in theological inquiry is: _"What is the consequence of sin?"_ At its most fundamental level, sin acts as the primary agent of **separation between God and man**. While different transgressions may carry varying earthly and spiritual weights, the core ontological result remains a breach in the relationship with the Divine.
