@@ -5,7 +5,7 @@ tags:
   - theology
 created: 2026-05-03T09:00:00
 modified:
-  - 2026-05-03T09:15
+  - 2026-05-03T09:18
 ---
 > [!abstract] Overview 
 > A central tension exists in theology: is sin a single, binary state of separation, or a graduated scale of severity? By combining the concepts of **[[The Consequence of Sin - The Fundamental Separation|The Fundamental Separation]]** and the **[[Hierarchy of Transgression]]**, we can understand sin as both a universal breach of relationship and a progressive distancing from the Divine.
