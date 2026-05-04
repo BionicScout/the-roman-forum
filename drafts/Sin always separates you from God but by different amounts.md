@@ -9,7 +9,7 @@ modified:
   - 2026-05-03T11:48
 ---
 ## Description
-There are two competing ideas of on sin. The first is [[All sin separates you from God's grace]] which means that no matter what the sin is, you are separated from God. While this idea is good, because we have to get our sin forgiven, it also can lead to the thinking of "well murder is just as bad lying so murder is fine because I can be forgiven". That thinking is horrible cause it lead to bad things. 
+There are two competing ideas of on sin. The first is [[The Consequence of Sin - The Fundamental Separation]] which means that no matter what the sin is, you are separated from God. While this idea is good, because we have to get our sin forgiven, it also can lead to the thinking of "well murder is just as bad lying so murder is fine because I can be forgiven". That thinking is horrible cause it lead to bad things. 
 
 The second idea is [[Some sins are greater in severity than other sins]]. You can see throughout the bible in numerous places. This idea avoids the trap of not doing worse sins because they are bad, but the make the doing the lesser sins more easy to do as they are "not that bad in comparison". 
 
