@@ -13,7 +13,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: 'G-N7PQJCXJPF'
     },
     locale: "en-US",
     baseUrl: "bionicscout.github.io/the-roman-forum",
