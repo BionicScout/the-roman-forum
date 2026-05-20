@@ -1,0 +1,10 @@
+filters:
+  and:
+    - or:
+        - file.inFolder("content")
+        - file.inFolder("drafts")
+        - file.inFolder("instructions")
+        - file.inFolder("templates")
+views:
+  - type: table
+    name: Table

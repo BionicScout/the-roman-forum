@@ -1,0 +1,72 @@
+filters:
+  and:
+    - or:
+        - file.inFolder("content")
+        - file.inFolder("drafts")
+    - file.hasTag("people")
+formulas:
+  Created Date: created.date()
+  Modified Date: list(modified)[-1].date()
+  Title (Linked): link(file, title)
+  Date Lived: born + " - " + died
+  BornToSignedYear: number(list(born.split(" "))[0]) * if(born.contains("BC"), -1, 1)
+  DiedToSignedYear: number(list(Died.split(" "))[0]) * if(born.contains("BC"), -1, 1)
+  Age: formula.DiedToSignedYear - formula.BornToSignedYear
+properties:
+  formula.Modified Date:
+    displayName: Modified Date
+views:
+  - type: table
+    name: People
+    order:
+      - formula.Created Date
+      - formula.Modified Date
+      - formula.Title (Linked)
+      - formula.Age
+      - formula.Date Lived
+      - description
+    sort:
+      - property: description
+        direction: ASC
+    rowHeight: tall
+    columnSize:
+      formula.Created Date: 117
+      formula.Modified Date: 123
+      formula.Date Lived: 99
+      note.description: 495
+  - type: table
+    name: Drafts
+    filters:
+      and:
+        - file.hasTag("draft")
+    order:
+      - formula.Created Date
+      - formula.Modified Date
+      - formula.Title (Linked)
+      - formula.Age
+      - formula.Date Lived
+      - description
+    rowHeight: tall
+    columnSize:
+      formula.Created Date: 117
+      formula.Modified Date: 123
+      formula.Date Lived: 99
+      note.description: 495
+  - type: table
+    name: Posted
+    filters:
+      and:
+        - '!file.hasTag("draft")'
+    order:
+      - formula.Created Date
+      - formula.Modified Date
+      - formula.Title (Linked)
+      - formula.Age
+      - formula.Date Lived
+      - description
+    rowHeight: tall
+    columnSize:
+      formula.Created Date: 117
+      formula.Modified Date: 123
+      formula.Date Lived: 99
+      note.description: 495

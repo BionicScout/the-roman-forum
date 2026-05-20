@@ -1,0 +1,51 @@
+filters:
+  and:
+    - or:
+        - file.inFolder("content")
+        - file.inFolder("drafts")
+    - file.hasTag("blog-page")
+formulas:
+  Title (Linked): link(file, title)
+  Created Date: created.date()
+  Modified Date: list(modified)[-1].date()
+  created.date(): created.date()
+properties:
+  formula.created.date():
+    displayName: Created Date
+views:
+  - type: table
+    name: Table
+    order:
+      - formula.created.date()
+      - formula.Modified Date
+      - formula.Title (Linked)
+      - tags
+      - formula.Untitled
+    columnSize:
+      formula.Title (Linked): 422
+  - type: table
+    name: Drafts
+    filters:
+      and:
+        - file.hasTag("draft")
+    order:
+      - formula.created.date()
+      - formula.Modified Date
+      - formula.Title (Linked)
+      - tags
+      - formula.Untitled
+    columnSize:
+      formula.Title (Linked): 422
+  - type: table
+    name: Posted
+    filters:
+      and:
+        - '!file.hasTag("draft")'
+    order:
+      - formula.created.date()
+      - formula.Modified Date
+      - formula.Title (Linked)
+      - tags
+      - formula.Untitled
+    columnSize:
+      formula.Title (Linked): 422

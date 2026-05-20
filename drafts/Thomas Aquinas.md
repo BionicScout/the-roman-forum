@@ -8,9 +8,10 @@ tags:
   - blog-reference
   - people
   - draft
-created:
+created: 2026-05-03T08:50:00
 modified:
   - 2026-05-03T08:50
+  - 2026-05-19T09:47
 born:
 died:
 ---

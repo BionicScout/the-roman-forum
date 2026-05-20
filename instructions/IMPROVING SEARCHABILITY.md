@@ -3,3 +3,4 @@
 3) Google Search Console
 4) Good Tags (used be SEO)
 5) Good Titles (Used by SEO)
+6) 
