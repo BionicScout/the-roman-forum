@@ -6,7 +6,6 @@ aliases:
 tags:
   - blog-reference
   - glossary/term
-  - draft
 created: 2026-05-21T14:45:00
 modified:
   - 2026-05-21T02:49
