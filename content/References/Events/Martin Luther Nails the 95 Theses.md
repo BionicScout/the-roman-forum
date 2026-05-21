@@ -9,7 +9,7 @@ tags:
   - event/instant
 created: 2026-05-20T22:16:00
 modified:
-  - 2026-05-20T10:26
+  - 2026-05-20T10:42
 event-date: October 31, 1517 AD
 location:
   - "[[Wittenberg]]"
@@ -70,4 +70,5 @@ Ultimately, the event marks the moment the Western world shifted its locus of tr
 * *No other Mentions*
 
 ---
-> "Unless I am convinced by the testimony of the Scriptures or by clear reason... I am bound by the Scriptures I have quoted and my conscience is captive to the Word of God. I cannot and I will not recant anything, since it is neither safe nor right to go against conscience. May God help me. Amen." — **Martin Luther**, *Diet of Worms (1521)*
+> "Unless I am convinced by the testimony of the Scriptures or by clear reason... I am bound by the Scriptures I have quoted and my conscience is captive to the Word of God. I cannot and I will not recant anything, since it is neither safe nor right to go against conscience. May God help me. Amen." 
+> — **Martin Luther**, *Diet of Worms (1521)*

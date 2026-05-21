@@ -63,4 +63,5 @@ Why do we still analyze this single day in the digital age? What evergreen lesso
 * (Links to your core blog essays will be tracked here manually) 
 
 ---
-> "Quote." — **Name**
+> "Quote." 
+> — **Name**, *Source*
