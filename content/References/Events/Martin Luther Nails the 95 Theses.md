@@ -9,7 +9,7 @@ tags:
   - event/instant
 created: 2026-05-20T22:16:00
 modified:
-  - 2026-05-20T10:42
+  - 2026-05-20T10:59
 event-date: October 31, 1517 AD
 location:
   - "[[Wittenberg]]"
@@ -20,7 +20,7 @@ key-figures: "[[Martin Luther]]"
 # Martin Luther Nails the 95 Theses
 
 > [!summary] Quick Overview
-> On October 31, 1517, monk and academic [[Martin Luther]] drafted a sharp theological challenge against the [[Catholic Church]]'s commercial sale of indulgences. Intended as a local academic debate, the document was rapidly translated, printed, and distributed—effectively launching the [[Protestant Reformation]] and permanently altering the geopolitical and religious landscape of Europe.
+> On October 31, 1517, monk and academic [[Martin Luther]] drafted a sharp theological challenge against the [[Catholic Church]]'s commercial sale of indulgences. Intended as a local academic debate, the document was rapidly translated, printed, and distributed—effectively launching [[The Protestant Reformation]] and permanently altering the geopolitical and religious landscape of Europe.
 
 
 ---
@@ -52,7 +52,7 @@ Ultimately, the event marks the moment the Western world shifted its locus of tr
 
 ## 🔗Related
 ### **Overarching Events** 
-- [[Protestant Reformation]]
+- [[The Protestant Reformation]]
 
 ### **Preceding Events** 
 - [[Black Death]]
