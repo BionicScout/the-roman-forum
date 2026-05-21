@@ -1,0 +1,22 @@
+- [x] Blog Page
+- [ ] Glossary
+	- [ ] Concept (an idea with linked sources)
+	- [ ] Term (a technically defined word I define)
+- [ ] References
+	- [ ] Events
+		- [ ] Instant (those that happen in a day)
+		- [ ] Spanning (those that happen over multiple days to years)
+	- [ ] Media
+		- [ ] Movie
+		- [ ] Podcast
+	- [x] People
+	- [ ] Text
+		- [ ] Academic Paper
+		- [ ] Digital Article 
+		- [ ] Modern Book
+		- [ ] Historic Book
+- [ ] Writing (Consistent element used for writing individual pages)
+	- [ ] Change Log?
+	- [ ] Code Block?
+	- [x] Overview
+	- [x] Quote

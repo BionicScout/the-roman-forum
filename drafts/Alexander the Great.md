@@ -8,6 +8,7 @@ tags:
   - draft
 created:
 modified:
+  - 2026-05-20T02:33
 born:
 died:
 ---
@@ -19,7 +20,7 @@ died:
 ## Core Ideas
 * **Key Concept 1:** Brief description of the idea and its relevance.
 * **Key Concept 2:** How this idea intersects with other disciplines like Psychology or Theology.
-* **Key Concept 3:** Modern implications or "Digital Garden" connections.
+* Key Concept 3:** Modern implications or "Digital Garden" connections.
 
 ---
 
