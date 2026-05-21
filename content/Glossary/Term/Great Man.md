@@ -8,7 +8,7 @@ tags:
   - glossary/term
 created: 2026-05-21T14:45:00
 modified:
-  - 2026-05-21T02:49
+  - 2026-05-21T02:54
 ---
 # Great Man
 
