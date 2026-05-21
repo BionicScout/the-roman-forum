@@ -9,7 +9,7 @@ tags:
   - event/instant
 created: 2026-05-20T22:16:00
 modified:
-  - 2026-05-20T10:21
+  - 2026-05-20T10:26
 event-date: October 31, 1517 AD
 location:
   - "[[Wittenberg]]"
@@ -51,19 +51,19 @@ Ultimately, the event marks the moment the Western world shifted its locus of tr
 --- 
 
 ## 🔗Related
-### **Overarching Events:** 
+### **Overarching Events** 
 - [[Protestant Reformation]]
 
-### **Preceding Events:** 
+### **Preceding Events** 
 - [[Black Death]]
 - [[Invention of the Printing Press]]
 
-### **Succeeding Events:** 
+### **Succeeding Events** 
 - [[Diet of Worms]]
 - [[Council of Trent]]
 - [[Thirty Years War|Thirty Years' War]]
 
- ### **Related Topics:**
+ ### **Related Topics**
   #history #theology 
 
 ### Forum Mentions 

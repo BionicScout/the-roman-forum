@@ -50,13 +50,13 @@ Why do we still analyze this single day in the digital age? What evergreen lesso
 --- 
 
 ## 🔗Related
-### **Overarching Events:**
+### **Overarching Events**
 - 
-### **Preceding Events:** 
+### **Preceding Events** 
 - 
-### **Succeeding Events:** 
+### **Succeeding Events** 
 - 
-### **Related Topics:**
+### **Related Topics**
 #history 
 
 ### Forum Mentions 
