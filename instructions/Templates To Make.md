@@ -3,9 +3,9 @@
 	- [ ] Concept (an idea with linked sources)
 	- [ ] Term (a technically defined word I define)
 - [ ] References
-	- [ ] Events
-		- [ ] Instant (those that happen in a day)
-		- [ ] Spanning (those that happen over multiple days to years)
+	- [x] Events
+		- [x] Instant (those that happen in a day)
+		- [x] Spanning (those that happen over multiple days to years)
 	- [ ] Media
 		- [ ] Movie
 		- [ ] Podcast
