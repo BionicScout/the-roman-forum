@@ -6,6 +6,7 @@ tags:
 created: 2026-05-03T09:00:00
 modified:
   - 2026-05-19T10:01
+  - 2026-05-23T11:31
 ---
 Welcome, traveler, to **The Roman Forum**. In the ancient world, the _Forum Romanum_ was more than just a marketplace; it was the beating heart of Rome. It was a space where the roar of political debate met the quiet contemplation of the temples, where legal disputes were settled, and where the greatest minds of the age gathered to exchange ideas that would shape millennia.
 
@@ -43,6 +44,6 @@ At the bottom of every page, you will see a **Backlinks** section. This shows yo
 
 ---
 
-> "The high-minded man must care more for the truth than for what people think." — **[[Aristotle]]**
+> "The high-minded man must care more for the truth than for what people think." — **[[Aristotle]]**, *[[Nicomachean Ethics]]*
  
 _Stay a while, explore the archives, and join the conversation._

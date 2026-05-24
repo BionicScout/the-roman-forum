@@ -1,7 +1,7 @@
 - [x] Blog Page
 - [ ] Glossary
 	- [ ] Concept (an idea with linked sources)
-	- [ ] Term (a technically defined word I define)
+	- [x] Term (a technically defined word I define)
 - [ ] References
 	- [x] Events
 		- [x] Instant (those that happen in a day)
