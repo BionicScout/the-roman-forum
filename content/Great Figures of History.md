@@ -9,8 +9,8 @@ tags:
 created: 2026-05-23
 modified:
   - 2026-05-23T11:47
+  - 2026-05-30T12:56
 ---
-
 # Great Figures of History
 
 > [!abstract] Welcome to the Gallery of Great Figures!
