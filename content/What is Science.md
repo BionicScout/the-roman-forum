@@ -7,7 +7,7 @@ tags:
   - blog-page
 created: 2026-05-30T16:06:00
 modified:
-  - 2026-05-30T04:32
+  - 2026-05-30T04:34
 ---
 # What is Science?
 
@@ -83,7 +83,6 @@ When an individual attempts to convert science into an overarching world belief 
 ### **"What is...?" Series**
 - [[What is Religion]]?
 - [[What is Philosophy]]?
-- 
 ### Forum Mentions 
 * *No other Mentions*
 
