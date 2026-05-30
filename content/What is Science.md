@@ -6,10 +6,9 @@ aliases:
   - What is Science?
 tags:
   - blog-page
-  - draft
 created: 2026-05-30T16:06:00
 modified:
-  - 2026-05-30T04:08
+  - 2026-05-30T04:25
 ---
 # What is Science?
 

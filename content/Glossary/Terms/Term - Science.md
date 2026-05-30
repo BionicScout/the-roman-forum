@@ -7,10 +7,9 @@ aliases:
 tags:
   - blog-reference
   - glossary/term
-  - draft
 created:
 modified:
-  - 2026-05-30T04:22
+  - 2026-05-30T04:25
 ---
 # Science
 
