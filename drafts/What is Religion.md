@@ -3,7 +3,6 @@ title: What is Religion?
 description:
 aliases:
   - Religion
-  - What is Religion?
 tags:
   - blog-page
   - draft

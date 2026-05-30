@@ -3,12 +3,11 @@ title: What is Science?
 description: An exploration of science as a value-neutral empirical testing framework, mapping its systemic strengths, cognitive boundaries, and the trap of Scientism.
 aliases:
   - Science
-  - What is Science?
 tags:
   - blog-page
 created: 2026-05-30T16:06:00
 modified:
-  - 2026-05-30T04:25
+  - 2026-05-30T04:32
 ---
 # What is Science?
 
@@ -82,8 +81,8 @@ When an individual attempts to convert science into an overarching world belief 
 --- 
 ## 🔗Related
 ### **"What is...?" Series**
-- [[What is Religion|What is Religion?]]
-- [[What is Philosophy|What is Philosophy?]]
+- [[What is Religion]]?
+- [[What is Philosophy]]?
 - 
 ### Forum Mentions 
 * *No other Mentions*
