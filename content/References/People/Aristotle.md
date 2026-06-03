@@ -9,6 +9,7 @@ created: 2026-05-03T10:41:00
 modified:
   - 2026-05-03T11:14
   - 2026-05-20T05:50
+  - 2026-06-03T05:58
 born: 384 BC
 died: 322 BC
 ---
@@ -26,7 +27,7 @@ Aristotle was an ancient Greek philosopher and polymath who stands as one of the
 
 > [!abstract] Key Works & Milestones
 > 
-> - **Nicomachean Ethics:** A seminal text on virtue ethics that continues to influence modern Psychology and moral philosophy.
+> - **[[Nicomachean Ethics]]:** A seminal text on virtue ethics that continues to influence modern Psychology and moral philosophy.
 >     
 
 
