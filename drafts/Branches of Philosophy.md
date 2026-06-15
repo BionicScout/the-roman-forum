@@ -6,7 +6,7 @@ tags:
   - draft
 created: 2026-06-14T18:58:00
 modified:
-  - 2026-06-14T08:14
+  - 2026-06-14T09:10
 ---
 
 > [!abstract] Mapping the Intellectual Thought
@@ -16,7 +16,7 @@ modified:
 
 ## The Four Pillars of Inquiry
 
-At its historic core, philosophical exploration is divided into four distinct primary operational zones, each answering a fundamental question about human experience and the cosmos:
+At its core, philosophical exploration is divided into four primary zones, each answering a fundamental question about human experience and the cosmos:
 
 1. **Metaphysics:** Answers the question, *"What exists?"*
 2. **Epistemology:** Answers the question, *"What can we know?"*
@@ -38,7 +38,7 @@ Metaphysics investigates the fundamental nature of reality, existence, and the i
 
 ### 🔍 Epistemology (The Study of Knowledge)
 
-Epistemology examines the origins, nature, limits, and validity of human knowledge. It determines the boundary line between what is merely an opinion or belief and what can be classified as absolute truth.
+Epistemology examines the origins, nature, limits, and validity of human knowledge. It draws the boundary between mere opinion or belief and what can be classified as truth.
 
 - **Philosophy of Perception:** Analyzes how human consciousness interprets the external world through sensory input, questioning the exact relationship between perception and objective reality.
 - **Philosophy of Language:** Investigates the mechanics of meaning, reference, truth, and how symbolic language structures human thought and social knowledge graphs.
@@ -62,14 +62,14 @@ Ethics explores the nature of morality, values, justice, and right action. It bu
 
 Logic does not dictate *what* to think, but formalizes the structural mechanics of *how* to think. It provides the rigid rules required to build valid, bulletproof arguments and dismantle cognitive errors.
 
-- **Formal Logic:** The symbolic system used to map out premises and conclusions, checking for deductive validity and structural soundness.
+- **Formal Logic:** The symbolic system used to map out premises and conclusions, checking for deductive validity.
 - **Informal Logic:** The analysis of everyday language argumentation, specializing in identifying logical fallacies and evaluating inductive reasoning.
 
 ---
 
 ## Minor Fields
 
-Some fields have cross disciplines between the major Philosophy Branches. We have have made a note of a few of them here. 
+Several fields cross-pollinate the major branches of philosophy. We have highlighted a few of them below.
 
 ### 🎨 Aesthetics (The Study of Value & Beauty)
 

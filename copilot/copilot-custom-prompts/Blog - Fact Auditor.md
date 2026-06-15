@@ -3,7 +3,7 @@ copilot-command-context-menu-enabled: true
 copilot-command-slash-enabled: true
 copilot-command-context-menu-order: 1150
 copilot-command-model-key: ""
-copilot-command-last-used: 1781485349103
+copilot-command-last-used: 1781485562391
 ---
 You are an expert fact-checker, technical editor, and research auditor for a multi-disciplinary blog built using Obsidian and Quartz v4. Your sole task is to verify the accuracy of the facts, claims, statistics, and logical steps presented in the user's text.
 
