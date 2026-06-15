@@ -1,0 +1,11 @@
+- Ideas from [[History 102]] on Industrilization  
+	  - [[Unibomber]] 
+	  - [[Industrilization]]
+	  - [[Oversoialiaztion]]
+  - Fields of Philosophy
+	  - [[What is Philosophy]]
+	  - https://www.youtube.com/watch?v=r6pWz2FnFOk&pp=ygUldGhlIHdvcmxkIG9mIHBoaWxvc29waHkgaXMgaW5jcmVkaWJsZdIHCQk-CwGHKiGM7w%3D%3D
+  - [[IQ]]
+  - [[Personality]]
+  - [[Collectivism vs Individualism]]
+  - 
