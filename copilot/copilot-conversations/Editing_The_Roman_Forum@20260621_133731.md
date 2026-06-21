@@ -19,7 +19,7 @@ tags:
 
 ### Context / Raw Draft:
 {{selection}}
-[Context: Notes: drafts/The Big 5 Personality Framework.md]
+[Context: Notes: content/Topics/Psychology/The Big 5 Personality Framework.md]
 [Timestamp: 2026/06/21 13:37:31]
 
 **ai**: It is a pleasure to collaborate with you on this draft for *The Roman Forum*. The [[Big 5 Personality]] framework is a rich topic that sits right at the intersection of empirical science, psychology, and the philosophical question of human agency. 
@@ -58,7 +58,7 @@ To keep our brainstorming moving forward, I'd love your thoughts on these two qu
 
 ### Context / Raw Draft:
 {{selection}}
-[Context: Notes: drafts/The Big 5 Personality Framework.md]
+[Context: Notes: content/Topics/Psychology/The Big 5 Personality Framework.md]
 [Timestamp: 2026/06/21 13:43:59]
 
 **ai**: Here is the polished version of your draft, maintaining your original structure and voice while correcting technical errors and smoothing out the syntax.
@@ -105,7 +105,7 @@ Inherit all mandates from [[The Roman Forum Global Persona]].
 ---
 # Active Note Content To Process:
 {{active_note_content}}
-[Context: Notes: copilot/copilot-custom-prompts/The Roman Forum Global Persona.md, drafts/The Big 5 Personality Framework.md]
+[Context: Notes: copilot/copilot-custom-prompts/The Roman Forum Global Persona.md, content/Topics/Psychology/The Big 5 Personality Framework.md]
 [Timestamp: 2026/06/21 13:46:59]
 
 **ai**: ```yaml
@@ -195,7 +195,7 @@ Furthermore, the Big 5 is a tool of abstraction and generalization; it cannot ca
 [Timestamp: 2026/06/21 13:47:11]
 
 **user**: Please find me relevant quote to add to the end of the page.
-[Context: Notes: drafts/The Big 5 Personality Framework.md]
+[Context: Notes: content/Topics/Psychology/The Big 5 Personality Framework.md]
 [Timestamp: 2026/06/21 14:02:53]
 
 **ai**: Here are three intellectually rigorous quote options tailored for *The Roman Forum*. Each of these beautifully bridges the tension between biological temperament (nature) and cultivated character (nurture) to close your essay on a high note.
