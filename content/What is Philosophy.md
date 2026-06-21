@@ -9,7 +9,7 @@ created: 2026-06-03T17:52:00
 modified:
   - 2026-05-30T04:32
   - 2026-06-03T05:53
-  - 2026-06-21T02:35
+  - 2026-06-21T03:07
 ---
 
 # What is Philosophy?
@@ -29,14 +29,14 @@ While the physical sciences excel at answering *how* the material universe funct
 
 ## The Sub-Fields of Philosophy
 
-To systematically analyze human nature and the intangible structures of reality, formal philosophical inquiry is organized into distinct categories of study:
+To systematically analyze human nature and the intangible structures of reality, formal philosophical inquiry is organized into distinct categories of study. These branches function as an interconnected network, each addressing a fundamental question of existence:
 
-* **Metaphysics**: The study of first principles and the ultimate nature of reality, existence, and being—tackling concepts that lie beyond the physical world, such as time, causality, and the divine.
-* **Epistemology**: The investigation of knowledge itself, exploring its origins, nature, structural limits, and the criteria required to establish what constitutes justified belief versus mere opinion.
-* **Ethics**: The systematic evaluation of moral values, principles, and obligations, designed to define right from wrong conduct and establish what it means to lead a virtuous life.
-* **Logic**: The formal study of valid inference, argument structure, and systematic reasoning, serving as the foundational toolset used to construct sound proofs and unmask fallacies.
-* **Political Philosophy**: The analytical study of collective governance, law, property, justice, and societal rights, seeking to determine the legitimate scope of state authority and individual liberty.
-* **Philosophy of Mind**: The investigation of consciousness, mental properties, and the self, specifically analyzing the relationship between the physical brain and the intangible mind.
+- **Metaphysics (What exists?):** The study of the fundamental nature of reality, existence, and being. It strips away physical measurement to examine the underlying architecture of the universe, including ontology (the study of being), philosophical cosmology, and the philosophy of mind.
+- **Epistemology (What can we know?):** The investigation of the origins, nature, and limits of human knowledge. It draws the critical boundary between mere opinion and justified belief, encompassing the philosophy of perception, language, and social epistemology.
+- **Ethics (What should we do?):** The systematic evaluation of moral values, principles, and obligations. It explores how we ought to live through metaethics (the origin of moral judgments), normative frameworks (such as Virtue Ethics, Deontology, and Utilitarianism), and applied ethics.
+- **Logic (How do we think?):** The foundational engine of argumentation. It provides the formal and informal rules required to construct valid, bulletproof arguments and dismantle cognitive errors across all other domains.
+
+_Note: For a more detailed breakdown of these disciplines and their interdisciplinary intersections, see [[Branches of Philosophy]]._
 
 ---
 
