@@ -21,6 +21,9 @@ views:
       - formula.Title (Linked)
       - tags
       - formula.Untitled
+    sort:
+      - property: formula.Modified Date
+        direction: DESC
     columnSize:
       formula.Title (Linked): 422
   - type: table

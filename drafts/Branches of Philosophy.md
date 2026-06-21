@@ -6,7 +6,7 @@ tags:
   - draft
 created: 2026-06-14T18:58:00
 modified:
-  - 2026-06-14T09:10
+  - 2026-06-14T09:17
 ---
 
 > [!abstract] Mapping the Intellectual Thought
@@ -93,16 +93,15 @@ This domain extends ethical frameworks outward to evaluate the systemic organiza
 
 Isolating these branches limits their analytical power. The real magic of **The Roman Forum** occurs at the crossroads where these fields collide to illuminate other core districts of human knowledge:
 
-- **Political Philosophy + [[History]]:** Evaluating historical conflicts (such as the *[[The Protestant Reformation]]*) not merely as wars, but as systemic clashes between competing frameworks of authority and political philosophy.
-- **Philosophy of Mind + [[Theology]]:** Mapping how metaphysical assumptions about human consciousness alter our understanding of human intent, sin, and relationship to the transcendent.
-- **Philosophy of Perception + [[Science]]:** Using epistemology to chart the exact limits of empirical measurement, ensuring we understand what the scientific method can—and cannot—accurately prove.
+- **Political Philosophy + History:** Evaluating historical conflicts not merely as wars, but as systemic clashes between competing frameworks of authority and political philosophy.
+- **Philosophy of Mind + Theology:** Mapping how metaphysical assumptions about human consciousness alter our understanding of human intent, sin, and relationship to the transcendent.
+- **Philosophy of Perception + [[Term - Science|Science]]:** Using epistemology to chart the exact limits of empirical measurement, ensuring we understand what the scientific method can—and cannot—accurately prove.
 
 ---
 ## 🔗Related
 
 ### Forum Mentions
 - [[What is Philosophy]]?
-- 
 
 --- 
 ## References
