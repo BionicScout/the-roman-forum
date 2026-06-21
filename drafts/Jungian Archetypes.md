@@ -9,9 +9,10 @@ tags:
 created:
 modified:
   - 2026-06-03T05:08
+  - 2026-06-21T02:19
 ---
 # Concept Name
-
+[[Carl Jung]]
 > [!abstract] Overview
 > A concise, professional breakdown of what this concept is and how it functions. Keep it objective and structural.
 
