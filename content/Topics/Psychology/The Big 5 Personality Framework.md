@@ -6,9 +6,9 @@ tags:
   - psychology
 created: 2026-06-21T13:46:00
 modified:
-  - 2026-06-21T02:08
+  - 2026-06-21T02:15
 ---
-# The Big 5 Personality Framework:
+# The Big 5 Personality Framework
 
 > [!abstract] The Map of Human Temperament
 > The Big 5 Personality Test (OCEAN) stands as one of modern Psychology's most empirically robust frameworks for categorizing human behavior. By measuring individuals across five core dimensions, it bridges the gap between genetic determinism and the lifelong pursuit of character expansion. This article explores its mechanics, practical utility, and inherent cultural limitations.
