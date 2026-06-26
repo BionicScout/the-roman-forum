@@ -1,4 +1,4 @@
-- Ideas from [[History 102]] on Industrilization  
+- Ideas from [[History 102]] on Industrialization  
 	  - [[Unibomber]] 
 	  - [[Industrilization]]
 	  - [[Oversoialiaztion]]
@@ -8,4 +8,5 @@
   - [[IQ]]
   - [[Personality]]
   - [[Collectivism vs Individualism]]
+  - Constraints produce creativity (Check AI talk on 6/26/2026)
   - 
