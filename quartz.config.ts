@@ -19,7 +19,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "bionicscout.github.io/the-roman-forum",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -59,7 +59,6 @@ const config: QuartzConfig = {
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
-	defaultDateType: "created",
       }),
       Plugin.SyntaxHighlighting({
         theme: {
