@@ -23,7 +23,8 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta({
-      showCreated: true
+      showCreated: true,
+      showModified: false,
     }),
     Component.TagList(),
   ],
