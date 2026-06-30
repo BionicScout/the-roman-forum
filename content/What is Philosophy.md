@@ -10,6 +10,7 @@ modified:
   - 2026-05-30T04:32
   - 2026-06-03T05:53
   - 2026-06-21T03:07
+  - 2026-06-30T03:02
 ---
 
 # What is Philosophy?
@@ -44,8 +45,8 @@ _Note: For a more detailed breakdown of these disciplines and their interdiscipl
 
 Operating as a unique layer of inquiry, philosophy inevitably encounters structural points of tension when intersecting with neighboring epistemic domains:
 
-1.  **The Clash with Empirical Reality:** Because philosophy tackles non-testable hypotheses, its structural assertions are occasionally vulnerable to sudden advancement in field data. When a discipline within the physical sciences successfully measures a phenomenon, empirical results can disprove previously established philosophical deductions. Meanwhile, coming up with hypothesis is as much a philosophic effort as a scientific as we need some way of orienting ourselves in the world to see patterns.  
-2.  **The Friction with Transcendent Reality:** Philosophy frequently confronts internal contradictions when mapped against religion. Unlike the verifiable boundaries encountered with empirical evidence, resolving systemic clashes between philosophical reasoning and divine theological revelation remains significantly less clear.
+1.  **The Clash with Empirical Reality:** Because philosophy tackles non-testable hypotheses, its structural assertions are occasionally vulnerable to sudden advancement in field data. When a discipline within the physical [[Term - Science|sciences]] successfully measures a phenomenon, empirical results can disprove previously established philosophical deductions. Meanwhile, coming up with hypothesis is as much a philosophic effort as a scientific as we need some way of orienting ourselves in the world to see patterns.  
+2.  **The Friction with Transcendent Reality:** Philosophy frequently confronts internal contradictions when mapped against [[Term - Religion|religion]]. Unlike the verifiable boundaries encountered with empirical evidence, resolving systemic clashes between philosophical reasoning and divine theological revelation remains significantly less clear.
 
 ---
 
