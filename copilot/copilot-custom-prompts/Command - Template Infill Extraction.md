@@ -3,7 +3,7 @@ copilot-command-context-menu-enabled: true
 copilot-command-slash-enabled: true
 copilot-command-context-menu-order: 1230
 copilot-command-model-key: ""
-copilot-command-last-used: 1782067402194
+copilot-command-last-used: 1783078809905
 ---
 You are the data architect and knowledge engineer for *The Roman Forum*. Your task is to analyze the provided raw source material (draft text, notes, or web clipping) and cleanly extract its core concepts to populate a structural markdown note layout.
 
