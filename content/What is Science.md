@@ -9,6 +9,7 @@ created: 2026-05-30T16:06:00
 modified:
   - 2026-05-30T04:34
   - 2026-06-21T02:34
+  - 2026-07-03T08:32
 ---
 # What is Science?
 
@@ -85,7 +86,7 @@ When an individual attempts to convert science into an overarching world belief 
 - [[What is Religion]]?
 - [[What is Philosophy]]?
 ### Forum Mentions 
-* *No other Mentions*
+* [[The ARC Synthesis - Integrating Science Philosophy and Religion|The A.R.C. Synthesis: Integrating Science, Philosophy, and Religion]]
 
 ---
 > "When a measure becomes a target, it ceases to be a good measure" 

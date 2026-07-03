@@ -12,7 +12,7 @@ tags:
 created: 2026-07-03T07:42:00
 modified:
   - 2026-05-30T01:10
-  - 2026-07-03T07:57
+  - 2026-07-03T08:33
 ---
 # Religion
 
@@ -21,7 +21,7 @@ modified:
 
 ## 🎯 Criteria
 - **Core Requirement:** To qualify as a religion, a system must provide an existential map addressing ultimate meaning, translate beliefs into daily moral choices through ethical frameworks, and reinforce social cohesion through repetitive physical rituals and communal habituation.
-- **Exclusions:** It explicitly excludes purely abstract, disembodied dogmas devoid of ritual practice, as well as empirical claims about the material universe that attempt to substitute for [[Term - Science|scientific]] inquiry.
+- **Exclusions:** It explicitly excludes purely abstract, disembodied dogmas devoid of ritual practice, as well as empirical claims about the material universe that attempt to substitute for scientific inquiry.
 
 ## ⚡ Examples
 - **[[Christianity]]:** Christian traditions function as highly embodied frameworks, where sacraments, communal fasts, and liturgical rituals translate ultimate dogmas into daily, lived reality.
