@@ -27,7 +27,7 @@ Generate the completely filled layout structure directly based on the source met
 
 
 Please use the information of[[What is Religion]] to fill in the template [[Template - Glossary - Term]] for the word Religion.
-[Context: Notes: docs/features/wikilinks.md, content/What is Religion.md, templates/Template - Glossary - Term.md, drafts/Term - Religion.md]
+[Context: Notes: docs/features/wikilinks.md, content/What is Religion.md, templates/Template - Glossary - Term.md, content/Glossary/Terms/Term - Religion.md]
 [Timestamp: 2026/07/03 07:41:50]
 
 **ai**: ```markdown

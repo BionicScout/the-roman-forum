@@ -3,7 +3,7 @@ copilot-command-context-menu-enabled: true
 copilot-command-slash-enabled: true
 copilot-command-context-menu-order: 1190
 copilot-command-model-key: ""
-copilot-command-last-used: 1782837064812
+copilot-command-last-used: 1783080678307
 ---
 # Purpose
 Convert the raw active note content into a publication-ready, Quartz-optimized layout matching the visual style of The Roman Forum.
