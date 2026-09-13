@@ -1,6 +1,6 @@
 ---
 title: The Seven Hermetic Principles
-description:
+description: An introduction to the seven Hermetic principles from _The Kybalion_, examining their historical influence on figures like Newton and Jung, and their practical application to everyday life.
 tags:
   - blog-page
   - draft
