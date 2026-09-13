@@ -3,10 +3,9 @@ title: The Seven Hermetic Principles
 description: An introduction to the seven Hermetic principles from _The Kybalion_, examining their historical influence on figures like Newton and Jung, and their practical application to everyday life.
 tags:
   - blog-page
-  - draft
 created: 2026-09-13T17:22:00
 modified:
-  - 2026-09-13T05:44
+  - 2026-09-13T05:47
 ---
 > [!abstract] The Secret of Science
 > [[Isaac Newton|Sir Isaac Newton]], [[Johannes Kepler]], and [[Francis Bacon]] were pioneering figures in the development of modern science. Yet, they were only deciphering the world using an ancient set of tools kept secret for centuries: the Hermetica. 
