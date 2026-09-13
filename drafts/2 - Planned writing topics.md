@@ -1,0 +1,86 @@
+- [[Spiral Dynamics]]
+	- [[The Eight Levels of Spiral Dynamics]]
+	- [[How to identify your primary Spiral Dynamics Level]]
+	- [[The shift between Tier 1 and 2 in Spiral Dynamics]]
+	- [[The Light and Shadow of each level in Spiral Dynamics]]
+- [[Hermeticism]]
+	- [[The Seven Hermetic Principles - A Breakdown of The Kybalion]]
+		- A structured primer on the seven axiomatic universal laws popularized by _The Kybalion_ (Mentalism, Correspondence, Vibration, Polarity, Rhythm, Cause and Effect, and Gender).
+	- [[An Introduction to the Corpus Hermeticum]]
+		- A historical and conceptual overview of the foundational texts. Chart the origins of Hermeticism in Hellenistic Egypt, where Egyptian religion and Greek philosophy fused, and explain how these texts were lost, rediscovered during the Renaissance, and shaped Western thought.
+	- [[As Above So Below - Unpacking the Law of Correspondence]]
+		- Focus entirely on the first principle: _"The All is Mind; the Universe is Mental."_ Explore the Hermetic view that reality is not fundamentally material, but rather a mental projection or construct of a singular, cosmic intelligence ("The All").
+	- [[The Art of Spiritual Alchemy - Transmutation vs Transformation]]
+		- Clarify the true nature of Hermetic alchemy. Move past the literal, physical attempt to turn lead into gold, and focus on "Mental Transmutation"—the practice of shifting one's mental states, vibrations, and polarities from lower states (fear, ignorance) to higher states (wisdom, mastery).
+- [[Jungian Archetypes]]
+	- [[An Introduction to Jungian Archetypes]]
+		- A definitive guide to Carl Jung’s theory of the collective unconscious. Explain the distinction between the personal unconscious (repressed memories and experiences) and the collective unconscious (the inherited psychic framework of humanity).
+	- [[The Integration of the Shadow]]
+		- A deep dive into the "Shadow" archetype—the hidden, repressed, and unacknowledged parts of our personality that we project onto others.
+	- [[The 12 Master Archetypes]]
+		- A comprehensive breakdown of the 12 classic archetypes popularized by Carol S. Pearson and Joseph Campbell (e.g., The Innocent, The Orphan, The Hero, The Caregiver, The Explorer, The Rebel, The Lover, The Creator, The Jester, The Sage, The Magician, The Ruler).
+	- [[The Heros Journey as a Psychic Monomyth]]
+		- Examine Joseph Campbell's _Hero with a Thousand Faces_ structural framework. Focus not just on it as a storytelling device, but as an archetypal map of psychological transformation that every human ego must undergo to grow.
+- [[Game Design Philosophy]]
+	- [[What is Player Agency]]
+		- A deep dive into what actually constitutes a choice in a game. Differentiate between a "false choice" (aesthetic variance with the same outcome), an "optimal choice" (where math dictates a single correct answer), and a "meaningful choice" (which forces a trade-off based on the player's personal values, playstyle, or expression).
+	- [[The Anatomy of the Magic Circle - Boundaries of Play]]
+		- Explore Johan Huizinga’s concept of the "Magic Circle"—the physical or psychological space where the rules of the real world are suspended, and the arbitrary rules of a game take absolute authority.
+	- [[Systems Architecture vs Emergent Gameplay]]
+		- A technical and philosophical look at how code structure influences player freedom. Compare rigid, hard-coded linear events against modular, decentralized design patterns (like decoupled component systems).
+	- [[Flow State - Balancing Friction and Mastery]]
+		- Examine the psychological phenomenon of Flow in game design. Map out the delicate axis between a player's current skill level and the game's difficulty curve.
+	- [[The MDA Framework - Mechanics Dynamics Aesthetics]]
+		- An introduction to the foundational MDA framework used to deconstruct games. Explain the inverse relationship between the designer and the player: the designer creates the _Mechanics_ (rules), which interact to form _Dynamics_ (system behaviors), which ultimately produce _Aesthetics_ (the emotional experience of the player).
+	- [[What is a Game]]
+- [[World Religions]]
+	- Eastern 
+		- [[Hinduism]]
+		- [[Buddhism]]
+		- [[Taoism]]
+	- Abrahamic 
+		- [[Judaism]]
+		- [[Christianity]]
+		- [[Islam]]
+	- [[Shamanic Traditions]]
+- [[Logic]]
+	- [[Aristotle and the Three Laws of Thought]]
+		- A foundational primer on classical, Aristotelian logic. Break down the three traditional laws that govern rational discourse: the Law of Identity ($A = A$), the Law of Non-Contradiction ($A$ cannot be both $B$ and non-$B$ at the same time and in the same sense), and the Law of Excluded Middle (everything must either be or not be).
+	- [[Deduction vs Induction]]
+		- A clear diagnostic guide separating the two primary methods of logical reasoning. Unpack deductive reasoning (where true premises guarantee a true conclusion—top-down logic) versus inductive reasoning (where premises provide strong evidence for a probable conclusion—bottom-up logic).
+	- [[A Diagnostic Guide to Informal Fallacies]]
+		- An index of common errors in everyday reasoning where the premises fail to support the conclusion despite appearing to do so. Categorize major informal fallacies into structural buckets: fallacies of relevance (Ad Hominem, Straw Man), fallacies of presumption (Begging the Question, False Dilemma), and component fallacies (Slippery Slope).
+	- [[An Introduction to Propositional Logic and Truth Tables]]
+		- Step into the symbolic realm where logic begins to look like math or computer science. Introduce variables ($P$, $Q$) and logical operators (AND, OR, NOT, IMPLIES). Show how a Truth Table works to determine the validity of conditional statements ($P \implies Q$).
+- [[Political Philosophy]]
+	- [[The Leviathan vs The Noble Savage - Hobbes and Rousseau on the State of Nature]]
+		- Compare Thomas Hobbes’s view of human nature in _Leviathan_ (life without a state is "solitary, poor, nasty, brutish, and short" due to a war of all against all) against Jean-Jacques Rousseau’s view in _The Social Contract_ (man is born free, but everywhere in chains, corrupted by civilization).
+	- [[John Locke and the Architecture of Natural Rights]]
+		- A focused guide to John Locke’s _Second Treatise of Government_. Explore his assertion that individuals possess inherent natural rights to life, liberty, and property before any government exists, and that the state's sole legitimate purpose is to act as a neutral judge to protect those rights.
+	- [[The American Synthesizers - How the Founding Fathers Weaponized Enlightenment Thought]]
+		- A historical analysis of how figures like Thomas Jefferson, James Madison, and Alexander Hamilton pulled abstract concepts out of European philosophy books and engineered them into a functional republic. Trace the direct line from Locke's "life, liberty, and property" to the Declaration of Independence's "life, liberty, and the pursuit of happiness."
+	- [[Faction Ambition and Federalist No 10 and 51]]
+		- A deep dive into James Madison’s core contributions to _The Federalist Papers_. Analyze the mechanical brilliance of Federalist No. 10 (controlling the effects of political factions through an extended republic) and Federalist No. 51 (the separation of powers where "ambition must be made to counteract ambition").
+	- [[The Paradox of the General Will - Rousseau’s Radical Democracy]]
+		- Explore Rousseau's concept of the _General Will_—the collective interest of the citizenry as a whole, which is distinct from the mere sum of individual, selfish interests. Examine the dangerous philosophical edge of this concept: the implication that if a citizen disagrees with the General Will, they must be "forced to be free."
+
+
+
+
+Bridges
+- Political Philosophy + Game Design Philosophy + Spiral Dynamics
+	- Treat programming a Software or Game Engine explained has Hobbesian and Rousseauean frameworks. Tie these frame works to a shift in Spiral Dynamics
+- Political Philosophy + Game Design Philosophy + Archetypes
+	- Analyze the engineering of the American Republic explicitly as a multiplayer game design problem.
+- Spiral Dynamics + Judaism/Christianity
+	- How the Bible implements Spiral Dynamics
+- Spiral Dynamics + World Religions + History
+	- How the Axial Age Religions brought fourth level 4 societies
+- Hermeticism + Spiral Dynamics
+	- How the Hermetics were the first Tier 2 thinkers
+- Hermeticism + Spiral Dynamics + World Religions + History
+	- How the rise of Catholic Church pushed higher level thinking
+- Philosphy + Hermeticism
+	- [[The Principle of Polarity and Aristotles Golden Mean]]
+
+  
